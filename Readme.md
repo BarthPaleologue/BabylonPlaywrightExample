@@ -4,7 +4,7 @@
 
 Rigorous testing of WebGL / WebGPU applications requires screenshot comparisons to validate shader outputs.
 
-This repo is a minimal setup made from [Cosmos Journeyer](https://github.com/BarthPaleologue/CosmosJourneyer)'s own config. It uses [Playwright](https://playwright.dev/) to take screenshots and compare them to a baseline. Tests can be run in a docker container for ease of use.
+This repo is a minimal setup made from [Cosmos Journeyer](https://github.com/BarthPaleologue/CosmosJourneyer)'s own config. It uses [Playwright](https://playwright.dev/) to take screenshots and compare them to a baseline. Tests can be run in a docker container for ease of use in Github Action or locally if playwright does not support your OS.
 
 ## Writing tests
 
