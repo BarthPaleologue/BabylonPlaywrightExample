@@ -1,0 +1,9 @@
+src/ts/utils/TWGSL
+package-lock.json
+dist
+node_modules
+src-tauri
+src/styles/nasalization
+src/asset
+docs
+coverage

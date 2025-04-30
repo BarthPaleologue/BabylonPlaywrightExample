@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background: #000000;
+}
+
+#renderCanvas {
+    z-index: 1;
+    float: left;
+}
